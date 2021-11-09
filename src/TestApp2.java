@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class App2 {
+public class TestApp2 {
     public static void main(String[] args) {
 
         // initializing unsorted int array
