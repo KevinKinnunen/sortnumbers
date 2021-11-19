@@ -22,7 +22,9 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 Start- 
  java SortMain.java
  
- The program will ask you how much numbers you want to sort, example 3.
+ The program will ask you how much numbers you want to sort, example:
+ 3
+ 
  Later will you enter the numbers, example:
  -30
  10
