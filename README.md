@@ -2,7 +2,6 @@
 
 - How to run:
     Run/Debug SortMain.java
- java SortMain.java
  
  The program will ask you how much numbers you want to sort, 
  example:
