@@ -1,38 +1,26 @@
-## Getting Started
+## Instructions
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-
-## How program works
-
-Start- 
+- How to run:
+    Run/Debug SortMain.java
  java SortMain.java
  
- The program will ask you how much numbers you want to sort, example:
+ The program will ask you how much numbers you want to sort, 
+ example:
  3
  
- Later will you enter the numbers, example:
+ Later will you enter the numbers, 
+ example:
  -30
  10
  -20
 
- The numbers will be sorted and printed, example:
+ The numbers will be sorted and printed,
+ example:
  -30
  -20
  10
+
+ - How to test:
+    Run/Debug @Test in SortTest.java 
 
 
